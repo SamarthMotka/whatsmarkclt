@@ -1,7 +1,7 @@
 /**
-* Template Name: Vesperr
+* Template Name: Whatsmark
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+* Template URL: https://bootstrapmade.com/Whatsmark-free-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
