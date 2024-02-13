@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #3498db;
+  color: #42B860;
   text-decoration: none;
 }
 
 a:hover {
-  color: #5faee3;
+  color: #42B860;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3498db;
+  background:   #42B860;;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -157,12 +157,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #3498db;
+  color: #42B860;;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #3498db;
+  background: #42B860;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 50px;
@@ -207,7 +207,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #3498db;
+  color: #42B860;
 }
 
 .navbar .dropdown:hover>ul {
