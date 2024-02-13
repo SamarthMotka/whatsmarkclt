@@ -1118,7 +1118,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #3498db;
+  background: #42B860;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1229,5 +1229,5 @@ section {
 }
 
 #footer .footer-links a:hover {
-  color: #3498db;
+  color: #42B860;
 }
