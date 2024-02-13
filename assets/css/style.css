@@ -307,7 +307,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #3498db;
+  color: #42B860;
 }
 
 .navbar-mobile .getstarted,
@@ -342,7 +342,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #3498db;
+  color: #42B860;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -381,12 +381,12 @@ h6 {
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.5s;
-  color: #3498db;
-  border: 2px solid #3498db;
+  color: #42B860;
+  border: 2px solid #42B860;
 }
 
 #hero .btn-get-started:hover {
-  background: #3498db;
+  background: #42B860;
   color: #fff;
 }
 
@@ -485,7 +485,7 @@ section {
   content: "";
   width: 50px;
   height: 2px;
-  background: #3498db;
+  background: #42B860;
   display: inline-block;
 }
 
@@ -568,7 +568,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #3498db;
+  color: #42B860;
   line-height: 1;
 }
 
@@ -586,14 +586,14 @@ section {
   border-radius: 50px;
   transition: 0.3s;
   line-height: 1;
-  color: #3498db;
+  color: #42B860;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #3498db;
+  border: 2px solid #42B860;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #3498db;
+  background: #42B860;
   color: #fff;
   text-decoration: none;
 }
@@ -627,7 +627,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #3498db;
+  color: #42B860;
   float: left;
   line-height: 0;
 }
@@ -707,7 +707,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #3498db;
+  background: #42B860;
   right: 0;
   top: 0;
   width: 100%;
@@ -723,7 +723,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #3498db;
+  background: #42B860;
   transition: all 0.3s ease-in-out;
 }
 
@@ -759,7 +759,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #3498db;
+  color: #42B860;
 }
 
 /*--------------------------------------------------------------
@@ -816,7 +816,7 @@ section {
 }
 
 .more-services .card:hover .card-body {
-  background: #3498db;
+  background: #42B860;
 }
 
 .more-services .card:hover .read-more a,
@@ -857,7 +857,7 @@ section {
 }
 
 .features .icon-box h3 a:hover {
-  color: #3498db;
+  color: #42B860;
 }
 
 .features .icon-box:hover {
@@ -888,7 +888,7 @@ section {
 
 .pricing .box h4 {
   font-size: 42px;
-  color: #3498db;
+  color: #42B860;
   font-weight: 500;
   font-family:'Space Grotesk', sans-serif;
   margin-bottom: 20px;
@@ -920,7 +920,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #3498db;
+  color: #42B860;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -939,8 +939,8 @@ section {
   display: inline-block;
   padding: 10px 40px 12px 40px;
   border-radius: 50px;
-  border: 2px solid #3498db;
-  color: #3498db;
+  border: 2px solid #42B860;
+  color: #42B860;
   font-size: 14px;
   font-weight: 400;
   font-family: 'Space Grotesk', sans-serif;
@@ -949,22 +949,22 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  background: #3498db;
+  background: #42B860;
   color: #fff;
 }
 
 .pricing .recommended {
-  border-color: #3498db;
+  border-color: #42B860;
 }
 
 .pricing .recommended .btn-buy {
-  background: #3498db;
+  background: #42B860;
   color: #fff;
 }
 
 .pricing .recommended .btn-buy:hover {
-  background: #2383c4;
-  border-color: #2383c4;
+  background: #42B860;
+  border-color: #42B860;
 }
 
 /*--------------------------------------------------------------
@@ -1034,11 +1034,11 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #3498db;
+  border: 1px solid #42B860;
 }
 
 .contact .social-links a:hover {
-  background: #3498db;
+  background: #42B860;
   color: #fff;
 }
 
@@ -1048,7 +1048,7 @@ section {
 
 .contact .info i {
   font-size: 32px;
-  color: #3498db;
+  color: #42B860;
   float: left;
   line-height: 1;
 }
@@ -1114,7 +1114,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #3498db;
+  border-color: #42B860;
 }
 
 .contact .php-email-form button[type=submit] {
