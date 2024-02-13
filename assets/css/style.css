@@ -9,6 +9,7 @@
 body {
   font-family: "Space Grotesk", sans-serif;
   color: #444444;
+  background-color: var(--bg);
 }
 #green1{
   color: #44D796;
